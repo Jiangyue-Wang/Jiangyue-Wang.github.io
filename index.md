@@ -1,7 +1,6 @@
 ---
-layout: home
-title: "Welcome to Jiangyue Wang's home page!"
-date: 2024-04-18
+layout: default
+title: Home Page
 ---
 
 # About me
@@ -17,5 +16,3 @@ If you share an interest in any of these research or simply wish to connect and 
 # Publications
 
 # Presentations
-
-# Gallery

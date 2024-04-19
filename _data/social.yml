@@ -1,0 +1,11 @@
+- title: Email
+  url: mailto:jyuewang@uw.edu
+  icon: fas fa-envelope
+
+- title: Twitter
+  url: https://twitter.com/LosMerenguescr7
+  icon: fab fa-twitter
+
+- title: GitHub
+  url: https://github.com/jiangyue-wang
+  icon: fab fa-github

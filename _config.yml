@@ -1,9 +1,43 @@
 title: Jiangyue Wang
-logo: /assets/img/WJY-at-canopy.png
+url: https://jiangyue-wang.github.io
+avatar: /assets/img/WJY-at-canopy.jpeg
 description: Jiangyue Wang is an enthusiastic researcher majoring in Ecology.
-show_downloads: false
-
+show_downloads: true
 plugins:
   - jekyll-remote-theme
 
 remote_theme: vszhub/not-pure-poole
+cover_image: "/assets/img/cover.jpg"
+
+author:
+  name: Jiangyue Wang
+  url: https://jiangyue-wang.github.io
+  email: jyuewang08@gmail.com
+  
+  # Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - scripts/
+  - not-pure-poole.gemspec
+
+# Optimize Jekyl SEO Tag
+twitter:
+  username: LosMerenguescr7
+  card: summary
+logo: "/assets/img/WJY-at-canopy.jpeg"
+social:
+  name: Jiangyue Wang
+  links:
+    - https://twitter.com/LosMerenguescr7
+    - https://github.com/jiangyue-wang
+lang: en
+
+sass:
+  sass_dir: _sass
+  style: :compressed
