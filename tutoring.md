@@ -24,9 +24,13 @@ This tutoring course is designed for students who are preparing for the English 
 
 [Four full abstracts](/assets/download_files/L1.pdf) will be sent to everyone in advance. Students should practice and prepare the abstract before the class. During the class, we will read and translate the abstract sentence by sentence. I will note areas for significant improvement for each participant.
 
+[Translation](/assets/download_files/L1_CN.pdf) of the four abstracts will be provided after the class.
+
 ### Second Class (June 2):
 
-Vocabulary will be sent to everyone in advance. Students should familiarize themselves with the pronunciation and meaning of these words before the class. During the class, we will read and translate the abstract, focusing on improving fluency now that vocabulary hurdles have been addressed.
+[Vocabulary](/assets/download_files/L2-Glossary.pdf) will be sent to everyone in advance. Students should familiarize themselves with the pronunciation and meaning of these words before the class. During the class, we will read and translate the abstract, focusing on improving fluency now that vocabulary hurdles have been addressed.
+
+Full text and translation of the four abstracts will be provided after the class.
 
 ### Third Class (June 16, no class on June 9 due to Dragon Boat Festival):
 
