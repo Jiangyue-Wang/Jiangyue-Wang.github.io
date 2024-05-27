@@ -19,11 +19,11 @@ If you share an interest in any of these research or simply wish to connect and 
 
 # Publications
 
-**Wang, J.**, Tian, J., Zhou, Z., Ma, X, Long, Y., Wang, R, & Li, S. (2024). Evaluating the characters of songbirds’ vocalizations during mobbing event in dark coniferous forest using bio-acoustic indicators. Acta Scientiarum Naturalium Universitatis Pekinensis, 60(1), 118-126. <https://doi.org/10.13209/j.0479-8023.2023.099>
+**Wang, J.**, Tian, J., Zhou, Z., Ma, X, Long, Y., Wang, R, & Li, S. (2024). Evaluating the characters of songbirds’ vocalizations during mobbing event in dark coniferous forest using bio-acoustic indicators. Acta Scientiarum Naturalium Universitatis Pekinensis, 60(1), 118-126. <https://doi.org/10.13209/j.0479-8023.2023.099> [PDF](/assets/download_files/Wang_2024_PKU.pdf)
 
 Shen, X., Liu, M., Hanson, J. O., **Wang, J.**, Locke, H., Watson, J. E. M., Ellis, E. C., Li, S., & Ma, K. (2023). Countries’ differentiated responsibilities to fulfill area-based conservation targets of the Kunming-Montreal Global Biodiversity Framework. One Earth, 6(5), 548–559. <https://doi.org/10.1016/j.oneear.2023.04.007>
 
-Yu, J., **Wang, J.**, Xiao, H., Chen, X., Chen, S., Li, S., & Shen, X. (2019). Camera-trapping survey of mammalian and avian biodiversity in Qianjiangyuan National Park, Zhejiang Province. Biodiversity Science, 27(12), 1339–1344. <https://doi.org/10.17520/biods.2019345>
+Yu, J., **Wang, J.**, Xiao, H., Chen, X., Chen, S., Li, S., & Shen, X. (2019). Camera-trapping survey of mammalian and avian biodiversity in Qianjiangyuan National Park, Zhejiang Province. Biodiversity Science, 27(12), 1339–1344. <https://doi.org/10.17520/biods.2019345>[PDF](/assets/download_files/Yu_2019_Biodiversity-Science.pdf)
 
 # Presentations
 
