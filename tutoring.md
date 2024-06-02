@@ -30,11 +30,11 @@ This tutoring course is designed for students who are preparing for the English 
 
 [Vocabulary](/assets/download_files/L2-Glossary.pdf) will be sent to everyone in advance. Students should familiarize themselves with the pronunciation and meaning of these words before the class. During the class, we will read and translate the abstract, focusing on improving fluency now that vocabulary hurdles have been addressed.
 
-Full text and translation of the four abstracts will be provided after the class.
+[Full text](/assets/download_files/L2.pdf), [slides](/assets/download_files/L2ppt.pdf) and [translation](/assets/download_files/L2-CN.pdf) of the four abstracts will be provided after the class.
 
 ### Third Class (June 16, no class on June 9 due to Dragon Boat Festival):
 
-No pre-class materials will be provided. The class will involve live practice. At the end, I will summarize common prefixes and suffixes to help students guess unfamiliar words.
+No pre-class materials will be provided. The class will involve live practice. At the end, I will summarize common prefixes and suffixes to help students guess unfamiliar words. Full text and translation will be provided after the class.
 
 ## External sources for vocabulary building
 
