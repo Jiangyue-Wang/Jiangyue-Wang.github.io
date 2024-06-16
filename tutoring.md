@@ -34,7 +34,7 @@ This tutoring course is designed for students who are preparing for the English 
 
 ### Third Class (June 16, no class on June 9 due to Dragon Boat Festival):
 
-No pre-class materials will be provided. The class will involve live practice. At the end, I will summarize common prefixes and suffixes to help students guess unfamiliar words. Full text and translation will be provided after the class.
+No pre-class materials will be provided. The class will involve live practice. At the end, I will summarize common prefixes and suffixes to help students guess unfamiliar words. [Full text](/assets/download_files/L3-text.pdf),  [translation](/assets/download_files/L3-CN.pdf), and [slides](/assets/download_files/L3.pdf) will be provided after the class.
 
 ## External sources for vocabulary building
 
