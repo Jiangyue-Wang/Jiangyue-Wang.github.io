@@ -5,19 +5,19 @@ title: Home Page
 
 # About me
 
-I am Jiangyue Wang (王江月), currently a second-year graduate student specializing in Wildlife Ecology at the School of Life Sciences, Peking University. But I will soon leave this program and join the Quantitative Ecology and Resource Management (QERM) program of the University of Washington in September this year!
+I’m Jiangyue Wang (王江月 in Chinese, pronounced __Jyang-yweh Wong__), a graduate student in the Quantitative Ecology and Resource Management (QERM) program at the University of Washington. My research focuses on the ecology and conservation of large carnivores, with particular interests in movement modeling using Bayesian frameworks, conservation planning, and eDNA techniques. I’ve worked with leopards, snow leopards, and mountain lions.
 
-My research is centered around the study of large carnivores in the Qinghai-Tibetan Plateau, with a particular focus on understanding their seasonal dietary preferences, spatial utilization patterns, and interactions with human-related activities. Over the past several months, my work has encompassed diverse aspects of wildlife ecology, including habitat classification through remote sensing techniques, individual identification and population estimation of snow leopards using the Spatial Capture-Recapture (SCR) framework, animal movement modeling, and an investigation into the changes in pheasant habitat over the past decade in response to the presence and removal of free-ranging livestock.
-
-If you share an interest in any of these research or simply wish to connect and discuss, I am eager to engage in conversations. Please feel free to reach out!
+If you share similar interests or would like to connect and chat, I’d love to hear from you!
 
 # Current research projects
 
-**Animal movement modeling:** Investigating nomadic movement patterns in large solitary carnivores and developing a novel framework for quantifying nomadism.
-
-**Impact of land use change on wildlife:** Examining the impact of reduced livestock and forbidden grazing on habitat selection and range shifts of local wildlife using multi-year transect surveys in Giant Panda National Park
+**Cougars on the Olympic Peninsula**: Mortality risks, dispersing behavior, and interactions with snow.
 
 # Publications
+
+Liu, M., Duan, F., **Wang, J.**, & Wang, Y. (2025). Ecological traits predict mammal temporal responses to land development but not human presence. Global Ecology and Conservation, 58, e03507. https://doi.org/10.1016/j.gecco.2025.e03507
+
+Zhang, Y., **Wang, J.**, & Li, S. (2025). The spatial distribution and research field of global large felid studies based on collar tracking. Acta Theriologica Sinica, 44(6), 781–794. https://doi.org/10.16829/j.slxb.150959
 
 **Wang, J.**, Tian, J., Zhou, Z., Ma, X, Long, Y., Wang, R, & Li, S. (2024). Evaluating the characters of songbirds’ vocalizations during mobbing event in dark coniferous forest using bio-acoustic indicators. Acta Scientiarum Naturalium Universitatis Pekinensis, 60(1), 118-126. <https://doi.org/10.13209/j.0479-8023.2023.099> [PDF](/assets/download_files/Wang_2024_PKU.pdf)
 

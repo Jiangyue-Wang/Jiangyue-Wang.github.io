@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Tutoring
+title: Teaching
 permalink: /tutoring/
 ---
 
-# 专业英语冲刺班 Biological English Oral Translation (May 2024 - Present)
+# 专业英语冲刺班 Biological English Oral Translation (May 2024 - June 2024)
 
 ## Overview
 
