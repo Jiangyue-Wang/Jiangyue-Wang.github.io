@@ -11,7 +11,9 @@ If you share similar interests or would like to connect and chat, I’d love to 
 
 # Current research projects
 
-**Cougars on the Olympic Peninsula**: Mortality risks, dispersing behavior, and interactions with snow.
+**Cougars on the Olympic Peninsula**: Mortality risks, dispersing behavior, and interactions with snow. 
+
+**Survival Modeling using Movement data**: R package [MortalMove](http://www.jiangyue-wang.com/MortalMove/)
 
 # Publications
 
