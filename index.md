@@ -13,7 +13,7 @@ If you share similar interests or would like to connect and chat, I’d love to 
 
 **Cougars on the Olympic Peninsula**: Mortality risks, dispersing behavior, and interactions with snow. 
 
-**Survival modeling using movement data**: R package [MortalMove](http://www.jiangyue-wang.com/MortalMove/) [flyer](/assets/download_files/GRChand-out.pdf)
+**Survival modeling using movement data**: R package [MortalMove](http://www.jiangyue-wang.com/MortalMove/) [flyer](/assets/download_files/GRChand-out2.pdf)
 
 # Publications
 
