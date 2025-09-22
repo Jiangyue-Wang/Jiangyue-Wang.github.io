@@ -4,6 +4,8 @@ title: Gallery
 permalink: /gallery/
 ---
 
-![Jiangyue visiting cougar denning site and holding a kitten! Photo courtesy of Mark Elbroch](assets/img/JYandKitten_Mark.JPG)
+![](assets/img/JYandKitten_Mark.JPG)
+*Jiangyue visiting cougar denning site and holding a kitten! Photo courtesy of Mark Elbroch*
 
-![Cute kitten. Photo courtesy of Matt Mahan](assets/img/Kitten_Matt.JPG)
+![](assets/img/Kitten_Matt.JPG)
+*Cute kitten. Photo courtesy of Matt Mahan*
