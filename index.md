@@ -27,6 +27,10 @@ Yu, J., **Wang, J.**, Xiao, H., Chen, X., Chen, S., Li, S., & Shen, X. (2019). C
 
 # Presentations
 
+**Gordon Research Conference - ** Wang, J., et al. (2025). Insights from Survival Modeling with Movement: Cougar Mortality on the Olympic Peninsula.
+
+**NASA Biodiversity and Environmental Conservation (BDEC) Team Meeting - ** Sullender, B. et al. (2025). Integrating Climate Projections into Snow-mediated Habitat Selection for Carnivores and Ungulates.
+
 **Academic Week of the School of Life Sciences 2023: Best oral presentation –** Move beyond single home range: Identifying stages of residence and non-residence, and quantifying movement features of snow leopards through satellite-tracking.
 
 **AFEC Symposium at Xishuangbanna Tropical Botanical Garden 2022: Best oral presentation and project –** Does aridity alter grass traits that impact mammalian grazer's skull morphology?
