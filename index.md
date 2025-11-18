@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home Page
+title: Home page
+permalink: /
 ---
 
 # About me
